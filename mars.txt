@@ -1,2 +1,3 @@
 Mars is a planet, smaller than Earth.
 But maybe larger than Mercury
+Defnitely smaller than Venus.
